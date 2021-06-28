@@ -1,0 +1,7 @@
+streamlit==0.71.0
+pandas==0.25.3
+base58==2.0.0
+matploilip==3.1.3
+numpy==1.18.1
+json5==0.9.5
+scikit-learn==0.23.2
