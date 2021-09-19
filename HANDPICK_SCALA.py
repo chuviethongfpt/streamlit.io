@@ -6,7 +6,6 @@ import pandas_gbq
 from googleapiclient.discovery import build
 from google.cloud import bigquery
 import json
-import mysql.connector
 import os
 from PIL import Image
 import streamlit.components.v1 as components
