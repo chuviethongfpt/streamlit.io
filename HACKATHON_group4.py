@@ -3,10 +3,8 @@ import numpy as np
 import altair as alt
 import PIL as Image
 import base64
-import seaborn as sns
 import streamlit as st
 import scipy.stats as stats
-import math
 import streamlit.components.v1 as components
 import streamlit.components.v1 as stc 
 import matplotlib.pyplot as plt
