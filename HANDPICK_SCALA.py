@@ -12,7 +12,7 @@ import streamlit.components.v1 as components
 import streamlit.components.v1 as stc 
 
 credentials = service_account.Credentials.from_service_account_info(
-    st.secrets[gcp_service_account]
+    st.secrets['gcp_service_account']
 )
 client = bigquery.Client(credentials=credentials)
 
